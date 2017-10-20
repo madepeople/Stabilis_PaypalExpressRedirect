@@ -1,0 +1,21 @@
+{
+    "name": "thinklikeamage/stabilis-paypalexpressredirect",
+    "license": "BSD-4-Clause",
+    "type": "magento-module",
+    "description": "PayPal error code handling",
+    "authors": [
+        {
+            "name": "Luke Leber",
+            "email":"LukeLeber@gmail.com"
+        }
+    ],
+    "require": {
+        "magento-hackathon/magento-composer-installer": "*"
+    },
+    "repositories": [
+        {
+            "type": "composer",
+            "url": "http://packages.firegento.com"
+        }
+    ]
+}
